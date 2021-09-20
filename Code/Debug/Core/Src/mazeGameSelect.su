@@ -1,0 +1,5 @@
+mazeGameSelect.c:62:6:mazeSelect	8	static
+mazeGameSelect.c:120:6:colomnScanNum1	8	static
+mazeGameSelect.c:166:6:colomnScanNum2	8	static
+mazeGameSelect.c:217:6:colomnScanNum3	8	static
+mazeGameSelect.c:266:6:colomnScanNum4	8	static

@@ -1,0 +1,15 @@
+mazeGame.c:141:6:mazeGameLoop	8	static
+mazeGame.c:221:6:MovePlayerIMU	16	static
+mazeGame.c:247:6:initialisePosition	8	static
+mazeGame.c:273:6:sendMazeUART	24	static
+mazeGame.c:301:6:resetElements	16	static
+mazeGame.c:312:6:writeMazeToArray	16	static
+mazeGame.c:321:6:updatePosition	16	static
+mazeGame.c:338:6:clearScreen	16	static
+mazeGame.c:348:6:updatePlayerPos	8	static
+mazeGame.c:560:6:colomnScanMaze1	8	static
+mazeGame.c:691:6:colomnScanMaze2	8	static
+mazeGame.c:821:6:colomnScanMaze3	8	static
+mazeGame.c:952:6:colomnScanMaze4	8	static
+mazeGame.c:1079:6:setBall	4	static
+mazeGame.c:1086:6:setEndGoal	4	static

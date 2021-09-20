@@ -1,0 +1,10 @@
+UserGeneral.c:93:6:start	8	static
+UserGeneral.c:98:6:mainloop	8	static
+UserGeneral.c:117:6:updateButton	16	static
+UserGeneral.c:130:6:selectGame	4	static
+UserGeneral.c:148:6:state	8	static
+UserGeneral.c:177:6:exitGame	8	static
+UserGeneral.c:184:6:lightUpCorners	8	static
+UserGeneral.c:192:6:updateScreen	8	static
+UserGeneral.c:216:6:HAL_SYSTICK_Callback	4	static
+UserGeneral.c:264:6:calibrationSequence	120	static
