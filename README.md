@@ -1,4 +1,4 @@
-# MicrocontrollerGameConsole🕹
+# Microcontroller Game Console🕹
  - This project is a retro game console made by hand using a STM nucleo F103RB microcontroller. 
  - The console is programmed with 2 games : the classic maze game (with 4 different levels) and the classic pong game. 
  - The project implements a 8x8 LED grid matrix to act as a low resolution game screen.
